@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohitraj181999.github.io/readme-gzjmox/sitemap.xml
